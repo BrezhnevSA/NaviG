@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" width="17" height="17">
+	<title>checkbox_false-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #4b4b4b } 
+		.shp1 { fill: none;stroke: #5aa0a0 } 
+	</style>
+	<path id="Layer" class="shp0" d="M1.2 1.34L16.2 1.34L16.2 16.34L1.2 16.34L1.2 1.34Z" />
+	<path id="Layer copy" class="shp1" d="M3.7 8.84L7.7 12.34L14.2 3.84" />
+</svg>

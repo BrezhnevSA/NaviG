@@ -1,0 +1,50 @@
+.heart-beats-filter-sidebar-second-header {
+    text-align: left;
+    color: #383838;
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+.heart-beats-filter-sidebar-filters-container {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.heart-beats-filter-sidebar-date-container .react-datepicker-wrapper, 
+.react-datepicker__input-container {
+    width: 130px;
+}
+
+.heart-beats-filter-sidebar-date-container input[placeholder] {
+    font-size: 14px;
+}
+
+.heart-beats-filter-sidebar-date-container {
+    z-index: 20;
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.heart-beats-filter-sidebar-date-container .react-datepicker-wrapper .react-datepicker__input-container input {
+    line-height: 40px;
+    padding-left: 10px;
+}
+
+.heart-beats-filter-sidebar-show-button-container {
+    padding-top: 20px;
+}
+
+.heart-beats-filter-sidebar-show-button {
+    height: 40px;
+    width: 100%;
+    padding: 0px !important;
+    font-size: 12pt !important;
+}
+
+.heart-beats-filter-sidebar-date-container .react-datepicker {
+    font-size: 14px;
+}
+
+.heart-beats-filter-sidebar-date-container-end .react-datepicker {
+    margin-top: 10px !important;
+}

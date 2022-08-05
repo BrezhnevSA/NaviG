@@ -1,0 +1,12 @@
+.floor-bread-crumbs-current-floor-wrapper {
+    position: relative;
+    font-size: 18px;
+    color: #4b4b4b;
+    cursor: pointer;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.floor-bread-crumbs-current-floor-wrapper:hover .floor_selector {
+    display: block !important;
+}

@@ -1,0 +1,21 @@
+.legend-sidebar-description-item-container {
+    padding-bottom: 28.3px;
+}
+
+.legend-sidebar-description-item-image {
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.legend-sidebar-description-item-text {
+    padding-left: 10px;
+    font-size: 14px;
+    font-weight: normal;
+    color: #383838;
+}
+
+.legend-sidebar-description-item-text-wrapper {
+    position: absolute;
+    display: inline-block;
+    width: 260px;
+} 

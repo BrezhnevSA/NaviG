@@ -1,0 +1,25 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41 26" width="41" height="26">
+	<title>Table-distance (1)-svg</title>
+	<style>
+		.s0 { fill: #b2b2b2 } 
+		.s1 { fill: #5b5b5b } 
+		.s2 { fill: none;stroke: #4b4b4b;stroke-width: 1.5 } 
+	</style>
+	<path id="Layer" class="s0" d="m27.6 25.2l12.5-12.5v3.8l-8.7 8.7z" />
+	<path id="Layer" class="s0" d="m4.5 25.3l25-25.1h3.9l-25 25.1z" />
+	<path id="Layer" class="s0" d="m19.6 25.5l20.8-20.8v3.9l-17 16.9z" />
+	<path id="Layer" class="s0" d="m35.2 25.2l4.8-4.8l-0.1 4.3l-0.8 0.5z" />
+	<path id="Layer" class="s0" d="m0.9 21.2l20.7-20.7h3.9l-24.6 24.5z" />
+	<path id="Layer" class="s0" d="m1.1 5.8l5.1-5.1h3.8l-8.9 8.9z" />
+	<path id="Layer" class="s0" d="m12.3 25.1l24.6-24.5h3.8l-24.6 24.5z" />
+	<path id="Layer" class="s0" d="m1 13.5l12.8-12.8h3.9l-16.7 16.6z" />
+	<path id="Layer" class="s1" d="m31.2 25.4l8.9-8.9v3.8l-5.1 5.1z" />
+	<path id="Layer" class="s1" d="m8.3 25.3l24.6-24.6h3.8l-24.3 24.3z" />
+	<path id="Layer" class="s1" d="m23.7 25.2l16.4-16.3v3.8l-12.6 12.5z" />
+	<path id="Layer" class="s1" d="m0.6 25.4l24.6-24.7h3.9l-24.7 24.7z" />
+	<path id="Layer" class="s1" d="m1.1 9.6l8.8-8.8h3.8l-12.6 12.7z" />
+	<path id="Layer" class="s1" d="m16.4 24.9l23.9-24v3.9l-20.1 20.1z" />
+	<path id="Layer" class="s1" d="m1.1 17.2l16.7-16.7h3.8l-20.5 20.5z" />
+	<path id="Layer" class="s1" d="m0.8 2.2l0.9-1.6l4.4 0.2l-5.3 5.3z" />
+	<path id="Layer" class="s2" d="m1 0.8l39.1-0.1v24.4h-39.1z" />
+</svg>

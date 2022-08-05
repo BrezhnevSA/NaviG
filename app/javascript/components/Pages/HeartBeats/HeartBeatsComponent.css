@@ -1,0 +1,81 @@
+.rectangle{
+    width:  30px;
+    height: 20px;
+    margin: 1px 10px 3px 10px;
+    border: 1px solid #9f9f9f;
+}
+
+.log_types{
+    font-size: small;
+}
+
+.sb_element {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.select_all_element {
+    margin-left: 10px;
+}
+
+.sb_sub_element {
+    display: inline-block;
+    font-size: 14px;
+}
+
+.title_element {
+    display: inline-block;
+    font-weight: bold;
+}
+
+.select_hb_types {
+    width: 250px;
+    padding-left: 10px; 
+}
+
+.heart-beats-component-sidebar-button.open_sidebar_button {
+    top: 17.7%;
+}
+
+.heart-beats-component-table-container .pagination .react-bootstrap-table-page-btns-ul { 
+    float: right!important ;
+}
+
+.heart-beats-component-table-container .pagination {
+    margin: 20px -30px;
+}
+
+.heart-beats-component-table-container .pagination>li>a, .pagination>li>span {
+    color: #000000 !important;
+    background-color: white !important;
+    border: 1px solid #ddd !important;
+    cursor: pointer;
+}
+
+.heart-beats-component-table-container .pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    color: #000000 !important; 
+    background-color: #9f9f9f !important;
+    border: 1px solid #ddd !important;
+    cursor: pointer !important;
+}
+
+.heart-beats-component-table-header-sorting-asc span.class {
+    color: #5aa0a0;
+
+}
+
+.heart-beats-component-table-header-sorting-desc {
+    color: #5aa0a0;
+}
+
+.heart-beats-component-page-title {
+    text-align: left;
+    margin-bottom: 20px;
+    font-size: 40pt;
+    margin-left: 25px;
+    width: 100%;
+    font-weight: bold;
+    color: #4b4b4b;
+    margin-top: 30px;
+}

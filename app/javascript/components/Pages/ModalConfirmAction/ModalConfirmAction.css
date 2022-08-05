@@ -1,0 +1,91 @@
+.modal-confirm-container {
+    background-color: white !important;
+    padding: 10px 20px;
+    min-width: 10%;
+    border: none !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+    width: 350px;
+}
+
+.modal-confirm-header-container {
+    padding-bottom: 15px;
+    font-weight: 600;
+}
+
+.modal-confirm-close-help-modal {
+    position: absolute;
+    right: 48px;
+    top: 35px;
+    width: 12px;
+    height: 12px;
+    opacity: 0.3;
+}
+  
+.modal-confirm-close-help-modal:hover {
+    opacity: 1;
+}
+  
+.modal-confirm-close-help-modal:before,
+.modal-confirm-close-help-modal:after {
+    position: absolute;
+    left: 5px;
+    content: ' ';
+    height: 15px;
+    width: 1px;
+    background-color: #212529;
+}
+  
+.modal-confirm-close-help-modal:before {
+    transform: rotate(45deg);
+}
+  
+.modal-confirm-close-help-modal:after {
+    transform: rotate(-45deg);
+}
+
+.modal-confirm-content-container {
+    background-color: white;
+}
+
+.modal-confirm-content-description {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.modal-confirm-button-footer {
+    padding-bottom: 30px;
+}
+
+.modal-confirm-button-footer-cancel {
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+.modal-confirm-cancel-button {
+    height: 40px;
+    width: 130px;
+    margin-top: 25px;
+    padding: 0px !important;
+    background-color: #4B4B4B;
+    color: white !important;
+    font-size: 12pt !important;
+    border: none;
+    outline: 0px !important;
+    border-radius: 3px;
+}
+
+.modal-confirm-save-button {
+    height: 40px;
+    width: 130px;
+    margin-top: 25px;
+    padding: 0px !important;
+    background-color: #5aa0a0;
+    color: white !important;
+    font-size: 12pt !important;
+    border: none;
+    outline: 0px !important;
+    border-radius: 3px;
+}

@@ -1,0 +1,43 @@
+
+button#helpModal {
+    border: none;
+    background: transparent;
+    display: block;
+    margin-top: -3px;
+    font-weight: bold;
+    color: #383838;
+}
+
+button#helpModal:focus {
+    outline: none;
+}
+
+.close-link {
+    cursor: pointer;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+
+.close-link:hover {
+    transform: scale(0.9);
+}
+
+.modal-content-2 {
+    min-width: 80%;
+    min-height: 80vh;
+    padding: 10px 20px;
+}
+
+.modal-content-3 {
+    min-width: 50% !important;
+    min-height: 50vh !important;
+    padding: 10px 20px !important;
+    width: 550px !important;
+    height: 425px !important;
+}
+
+.ReactModal__Overlay {
+    z-index: 100;
+}
+

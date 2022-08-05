@@ -1,0 +1,12 @@
+export const MOVING             = 'moving';
+export const SEAT               = 'seat';
+export const RESERVATION        = 'reservation';
+export const REMOVING           = 'removing';
+export const REMOVE_RESERVATION = 'remove_reservation';
+export const BOOKING_REMOVING   = 'booking_removing';
+export const BOOKING_EDITING    = 'booking_editing';
+export const BOOKING_CREATING   = 'booking_creating';
+export const REMOVING_FROM_DS   = 'removing_from_ds';
+export const MOVING_TO_DS       = 'moving_to_ds';
+export const REMOVING_FROM_GT   = 'removing_from_gt';
+export const MOVING_TO_GT       = 'moving_to_gt';

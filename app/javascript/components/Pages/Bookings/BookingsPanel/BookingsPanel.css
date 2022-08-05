@@ -1,0 +1,67 @@
+.tab-content>.tab-pane {
+    opacity: unset !important;
+}
+
+.profile-tab-space {
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.profile-tabs {
+    width: auto !important;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profile-tabitem {
+    width: 20%;
+    text-align: center !important;
+    padding-top: 10px;
+    font-stretch: normal;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 0.77;
+    letter-spacing: -0.6px;
+    text-align: left;
+    color: #4B4B4B;
+    margin-top: 20px;
+    height: 60px !important;
+    border-bottom: 1px solid #ededed !important;
+    border-color: #ffffff #ffffff #ededed !important;
+}
+
+.profile-tabitem-4 {
+    width: 27.33%;
+}
+
+.nav.nav-tabs > a:nth-child(3) {
+    width: 18% !important;
+}
+
+.nav.nav-tabs > a:nth-child(5) {
+    width: 22% !important;
+}
+
+.profile-tabitem.active {
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.77;
+    letter-spacing: -0.6px;
+    text-align: left;
+    color: #5aa0a0 !important;
+    border-bottom: 3px solid #5aa0a0 !important;
+    border-color: #ffffff #ffffff #5aa0a0 !important;
+}
+
+.profile-tabitem:hover {
+    color: #777777;
+}
+
+.nav.nav-tabs {
+    box-shadow: none !important;
+    margin-right: 80px;
+    border: none !important;
+
+}

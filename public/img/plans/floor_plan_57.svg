@@ -1,0 +1,435 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4000" height="4000" version="1.1">
+                
+                <polyline
+                    subtype='1'
+                    entity-name=''
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 1226.2727355957031, 616.7272644042969 60, 613.7272644042969 59, 374.81817626953125 123, 348.81817626953125 126, 216.81817626953125 706, 214.81817626953125 707, 67 1202.1817932128906, 67 1201.1817932128906, 241.90908813476562 1201.1817932128906, 331.9090881347656 1174.1817932128906, 330.9090881347656 1175.1817932128906, 432.7272644042969 1226.1817932128906, 432.7272644042969 1226.2727355957031, 616.7272644042969'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO16'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 432, 506.6666564941406 474, 507 473, 597 431, 597 432, 506.6666564941406'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO43'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 856, 163 903.3333053588867, 162.89999389648438 903.3333053588867, 255.89999389648438 856, 256 856, 163'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO33'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 576, 246 619, 266 577, 351 535, 331 576, 246'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO37'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 712, 72 757, 72 757, 163 711, 163 712, 72'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO38'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 757, 71 807, 72 808, 163 759, 162 757, 71'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO39'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 758, 163 807, 164 807, 256 759, 256 758, 163'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO21'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 190, 505.3999938964844 236, 505.3999938964844 234, 595.3999938964844 189, 595.3999938964844 190, 505.3999938964844'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO28'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 255, 261 347, 261 347, 307 255, 308 255, 261'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO42'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 856, 71 903, 71 904, 164 856, 163 856, 71'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO36'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 711, 163 760, 163 758, 255 712, 256 711, 163'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO41'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 808, 163 856, 165 856, 255 807, 255 808, 163'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO40'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 856.3333053588867, 70.89999389648438 855.3333053588867, 170.89999389648438 806.3333053588867, 170.89999389648438 806.3333053588867, 70.89999389648438 856.3333053588867, 70.89999389648438'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO20'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 238, 505.3999938964844 282, 505.3333435058594 281, 597 237, 596.3999938964844 238, 505.3999938964844'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO19'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 286, 505.6666564941406 330, 505.6666564941406 329, 596.6666564941406 285, 596.6666564941406 286, 505.6666564941406'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO18'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 334, 506 379, 506 378, 597 333, 597 334, 506'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO17'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 382, 506 427, 505.6666564941406 427, 597 381, 596 382, 506'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO14'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 526, 506 571, 506 569, 597 525, 597 526, 506'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO13'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 573, 505 620, 505 618, 597 573, 597 573, 505'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO12'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 622, 506 666, 505 666, 597 622, 597 622, 506'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO11'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 669, 507 718, 507 716, 597 669, 596 669, 507'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO10'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 719, 507 764, 508 762, 596 719, 597 719, 507'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO8'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 815, 508 860, 508 859, 597 815, 597 815, 508'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO9'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 766, 507 811, 507 812, 597 765, 597 766, 507'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO15'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 477, 506 522, 507 521, 596.6666564941406 476, 596.6666564941406 477, 506'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='SO7'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 863, 508 909, 508 908, 597 862, 597 863, 508'
+                />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 739 105)'
+                        width='45' height='45' x='714' y='80'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 788 104)'
+                        width='45' height='45' x='763' y='79'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 883 105)'
+                        width='45' height='45' x='858' y='80'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 741 196)'
+                        width='45' height='45' x='716' y='171'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 837 104)'
+                        width='45' height='45' x='812' y='79'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 836 196)'
+                        width='45' height='45' x='811' y='171'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(25 584 283)'
+                        width='45' height='45' x='559' y='258'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 218 536)'
+                        width='45' height='45' x='193' y='511'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 265 536)'
+                        width='45' height='45' x='240' y='511'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 313 536)'
+                        width='45' height='45' x='288' y='511'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 410 536)'
+                        width='45' height='45' x='385' y='511'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 458 536)'
+                        width='45' height='45' x='433' y='511'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 601 536)'
+                        width='45' height='45' x='576' y='511'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 649 536)'
+                        width='45' height='45' x='624' y='511'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 892 537)'
+                        width='45' height='45' x='867' y='512'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 787 196)'
+                        width='45' height='45' x='762' y='171'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 747 537)'
+                        width='45' height='45' x='722' y='512'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(90 310 269)'
+                        width='45' height='45' x='285' y='244'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 886 197)'
+                        width='45' height='45' x='861' y='172'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 361 536)'
+                        width='45' height='45' x='336' y='511'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 506 536)'
+                        width='45' height='45' x='481' y='511'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 554 536)'
+                        width='45' height='45' x='529' y='511'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 844 538)'
+                        width='45' height='45' x='819' y='513'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 698 536)'
+                        width='45' height='45' x='673' y='511'
+                        fill='url(#objectpattern1)' />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='45' height='45'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='45' height='45' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 794 538)'
+                        width='45' height='45' x='769' y='513'
+                        fill='url(#objectpattern1)' /></svg>

@@ -1,0 +1,50 @@
+beta server path (navi2.t-systems.ru):
+cd /var/www/navi2020
+
+run beta server (navi2.t-systems.ru):
+rails server -b 0.0.0.0 -d
+
+test server path (navi-dev.t-systems.ru):
+cd /var/www/navi2020_test
+
+run test server (navi-dev.t-systems.ru):
+rails server -b 0.0.0.0 -p 5000 -d
+
+stop server (in root of server directory):
+kill -9 $(cat tmp/pids/server.pid)
+
+дамп базы для беты мануальный (бэкап коммитить в репозиторий):
+/usr/pgsql-12/bin/pg_dump -F c -U navi_back navi_back_development > ../../www/navi2020/backup.dump
+
+дамп базы для беты (скрипт, рекомендуется, коммитить в репу тоже надо):
+./backup_db.sh
+файл бэкапа - /var/www/navi2020/backup.dump
+
+пересборка фронта мануальная:
+rvm 2.6.5 - обязательно, всегда
+./bin/webpack - пересобрать фронт после изменений, обязательно перед этим очистить директорию public/packs/js !!!
+
+пересборка фронта (скрипт, рекомендуется):
+./build_front.sh
+
+подключение к БД мануальное:
+psql -U postgres - подключение к постгресу
+\connect DATABASE - подключение к базе
+подключение к бета базе navi2.t-systems.ru(рекомендуется):
+psql -U navi_back -d navi_back_development
+подключение к тест базе navi-dev.t-systems.ru(рекомендуется):
+psql -U navi_back -d navi_back_testserver
+psql -U postgres-d navi_back_testserver
+
+миграция с бета базы в тест базу
+/var/www/navi2020_test/load_data_from_beta.sh
+
+необходимо после релода машины, т.к. проблемы с фаерволом при запуске тестового сервера:
+systemctl stop firewalld - для 5000 теста
+остановить фаервол:
+sudo systemctl stop firewalld  
+состояние фарвола:
+sudo firewall-cmd --state
+
+при установке гемов при ошибке с pg
+yum install postgresql-devel 

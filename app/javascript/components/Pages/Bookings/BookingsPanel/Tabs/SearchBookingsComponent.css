@@ -1,0 +1,247 @@
+.city-name {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+    color: #5aa0a0;
+    margin-left: 16px;
+    margin-bottom: 20px;
+}
+
+.office-name {
+    font-size: 25px;
+    font-weight: bold;
+    color: #4B4B4B;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+.building-name {
+    font-size: 22px;
+    color: #4B4B4B;
+    margin-left: 85px;
+    margin-bottom: 10px;
+}
+
+.floor-name {
+    font-size: 18px;
+    color: #4B4B4B;
+    margin-left: 118px;
+    margin-bottom: 10px;
+}
+
+.place-name {
+    font-size: 16px;
+    margin-left: 131px;
+    margin-bottom: 10px;
+}
+
+.search-button-booking {
+    /* height: 24.5px; */
+    height: 40px;
+    width: 130px;
+    padding: 0px !important;
+    margin-left: 25px;    
+}
+
+.label-date--filter .filter-label {
+    padding-top: 5px;
+}
+
+.label-date--filter {
+    width: 15px !important;
+    flex: 0;
+    padding: 0 !important;
+}
+
+.react-datepicker-wrapper, 
+.react-datepicker__input-container { 
+    display: block !important; 
+} 
+.react-datepicker-wrapper .react-datepicker__input-container input { 
+    width: 100% 
+}
+
+.employees-find-row {
+    margin-top: 15px;
+}
+
+.search-employee-input {
+    margin-left: 10px;
+}
+
+.input-employee-not-in-app > .rbt-input-main {
+    /* height: 27.42px !important; */
+    /* height: 36px; */
+    /* width: 187.78px !important; */
+
+}
+
+.input-employee-not-in-app {
+    border-radius: 3px !important;
+    border: 1px solid #4b4b4b !important;
+    font-size: 18px !important;
+    height: 40px !important;
+    width: 250px !important;
+    padding-left: 12px !important;
+    color: #b2b2b2 !important;
+    margin-left: 15px;
+}
+
+.input-employee-not-in-app:focus {
+    border: 1px solid #5aa0a0 !important;
+    outline: 0px !important;
+}
+
+
+.input-employee-not-in-app::placeholder {
+    color: #b2b2b2 !important;
+}
+
+.input-employee-not-in-app:hover::placeholder {
+    color: #777777 !important;
+}
+
+.div-input-not-in-app {
+    margin-left: 10px !important;
+}
+
+.switch-row,
+.label-switch {
+    display: inline-block;
+    height: 25px;
+}
+
+.switch-row {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 10px !important;
+}
+
+.select-row {
+    margin-left: 25px !important;
+    height: 40px !important;
+}
+
+.select_element {
+    border-radius: 3px !important;
+    border-color: #4b4b4b !important;
+    color: #b2b2b2 !important;
+    height: 40px !important;
+    -webkit-appearance: none;
+    width: 160px !important;
+}
+
+.select-row select {
+    height: 40px !important;
+    padding: 6px 10px !important;
+    font-size: 18px !important;
+}   
+
+.select_bd {
+    width: 150px !important;
+}
+
+.select-row select:focus {
+    box-shadow: none;
+}
+
+.select_element:focus {
+    box-shadow: none;
+    border: 1px solid #5aa0a0 !important;
+    outline: 0px !important;
+}
+
+.select_element:hover {
+    color: #777777 !important;
+    height: 40px !important;
+}
+
+.element-switch {
+    vertical-align: middle!important;
+    display: inline-block !important;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.in-system-switch {
+    padding-top: 5px;
+}
+
+#search-employee-booking > div > div > .rbt-input-main {
+    width: 250px !important;
+    border-radius: 3px !important;
+    border: 1px solid #4b4b4b !important;
+    font-size: 18px !important;
+    height: 40px;
+    margin-left: 25px;
+}
+
+#search-employee-booking > div > div > .rbt-input-main::placeholder {
+    color: #b2b2b2;
+}
+
+
+#search-employee-booking > div > div > .rbt-input-main:hover::placeholder {
+    color: #777777;
+}
+
+#search-employee-booking > div > div > .rbt-input-main:focus {
+    box-shadow: none;
+    border: 1px solid #5aa0a0 !important;
+    outline: 0px !important;
+}
+
+#search-employee-booking > div > div > .rbt-input-hint {
+    color: #b2b2b2 !important;
+}
+
+#search-employee-booking > div > div > .rbt-input-hint:hover {
+    color: #777777 !important;
+}
+
+
+.invalid_date {
+    border-color: #D90000 !important;
+}
+
+.required_field {
+    font-size: 12px;
+    display: block;
+    color: #D90000;
+    margin-left: 25px;
+}
+
+.required_field_hidden {
+    display: none;
+}
+
+.black_text {
+    color: #4b4b4b !important;
+    font-size: 18px !important;
+}
+
+option {
+    color: #4b4b4b !important;
+}
+
+
+.black_link {
+    color: #4B4B4B;
+    text-decoration: none;
+}
+
+.black_link:hover {
+    color: #777777;
+    text-decoration: underline;
+}
+
+.link_with_underline {
+    color: #4B4B4B;
+    text-decoration: underline;
+}
+
+.link_with_underline:hover {
+    color: #777777;
+    text-decoration: none;
+}

@@ -1,0 +1,54 @@
+.contracts-sidebar-show-button-container {
+    padding-top: 20px;
+}
+
+.contracts-sidebar-button-decline {
+    width: 100%;
+    background-color: #4b4b4b;
+    color: white !important;
+}
+  
+.contracts-sidebar-button-decline:hover {
+    background-color: #383838;
+}
+
+.contracts-sidebar-button-decline:focus {
+    background-color: #3a3a3a !important;
+    outline: none !important;
+    border: none !important;
+}
+
+.contracts-sidebar-button-show-bookings {
+    width: 100% !important;
+    background-color: #5aa0a0 !important;
+    color: #EDEDED !important;
+    box-shadow: none;
+}
+
+.contracts-sidebar-button-show-bookings:hover {
+    background-color: #64b4b4 !important;
+    color: #EDEDED !important;
+}
+
+.contracts-sidebar-button-show-bookings:focus {
+    background-color: rgb(179, 2, 93) !important;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: none;
+    outline: 0px !important;
+}
+
+.contracts-sidebar-header-container {
+    text-align: left;
+    color: #383838;
+    font-size: 18pt;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.contracts-first-element-header-container {
+    text-align: left;
+    color: #383838;
+    font-size: 18pt;
+    font-weight: bold;
+    margin-top: 30px;
+}

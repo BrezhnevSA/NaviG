@@ -1,0 +1,35 @@
+.button-edit-booking {
+    margin-bottom: 5px !important;
+}
+
+.open_filter_employees_sidebar_button {
+    position: absolute;
+    right: -42px;
+    top: 17%;
+    z-index: 20;
+    transform: rotate(-90deg);
+}
+
+.div-input-filter {
+    margin-left: -15px !important;
+}
+
+.input-filter {
+    width: 300px !important;
+}
+
+.button-filter {
+    width: 130px !important;
+}
+
+.right_button {
+    margin-left: 40px;
+}
+
+.open_filter_employees_management_sidebar_button {
+    position: absolute;
+    right: -120px;
+    top: 28%;
+    z-index: 20;
+    transform: rotate(-90deg);
+}

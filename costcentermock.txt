@@ -1,0 +1,4594 @@
+{
+	"data": [
+		{
+			"id": "1",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1140300,
+				"name": "Solutions&Projects"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 155,
+						"acc-id": 287843,
+						"wiw": "atroshik",
+						"full-name": "Трошихина Анна Владимировна"
+					}
+				}
+			}
+		},
+		{
+			"id": "2",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583222,
+				"name": "Tel-IT BSO WS"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 243,
+						"acc-id": 322566,
+						"wiw": "agarigin",
+						"full-name": "Гаригин Андрей Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "3",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583000,
+				"name": "Tel-IT General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 66,
+						"acc-id": 214985,
+						"wiw": "ybeskuro",
+						"full-name": "Бескурова Юлия Юрьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "4",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583122,
+				"name": "Tel_IT TSO AS SERVIC"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 803,
+						"acc-id": 477947,
+						"wiw": "iilin",
+						"full-name": "Ильин Юрий Юрьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "5",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583220,
+				"name": "Tel-IT BSO"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 5,
+						"acc-id": 54579,
+						"wiw": "msanjako",
+						"full-name": "Санжаков Михаил Хорисович"
+					}
+				}
+			}
+		},
+		{
+			"id": "6",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910004,
+				"name": "Accounting"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 319,
+						"acc-id": 334246,
+						"wiw": "ansemeny",
+						"full-name": "Семенюк Антон Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "7",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581230,
+				"name": "HS Enterprise"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 520,
+						"acc-id": 421863,
+						"wiw": "aadelshi",
+						"full-name": "Адельшин Алексей Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "8",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583231,
+				"name": "Tel-IT CSO TS1"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 94,
+						"acc-id": 226670,
+						"wiw": "adolmato",
+						"full-name": "Долматов Андрей Геннадьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "9",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583211,
+				"name": "Tel-IT CSO OP1"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 191,
+						"acc-id": 299008,
+						"wiw": "lelevin",
+						"full-name": "Левин Лев Валерьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "10",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583110,
+				"name": "Tel-IT TSO EW"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 66,
+						"acc-id": 214985,
+						"wiw": "ybeskuro",
+						"full-name": "Бескурова Юлия Юрьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "11",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1910004,
+				"name": "Accounting"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 319,
+						"acc-id": 334246,
+						"wiw": "ansemeny",
+						"full-name": "Семенюк Антон Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "12",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1550002,
+				"name": "ICSS"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 17,
+						"acc-id": 98600,
+						"wiw": "itchoupa",
+						"full-name": "Чупалов Игорь Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "13",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583200,
+				"name": "Tel-IT CSO General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 33,
+						"acc-id": 197905,
+						"wiw": "pstrokan",
+						"full-name": "Строкан Павел Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "14",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1910006,
+				"name": "Controlling"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 17,
+						"acc-id": 98600,
+						"wiw": "itchoupa",
+						"full-name": "Чупалов Игорь Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "15",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583100,
+				"name": "Tel-IT TSO General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 18,
+						"acc-id": 142746,
+						"wiw": "etokarev",
+						"full-name": "Токарева Елена Сергеевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "16",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583112,
+				"name": "Tel-IT TSO EW2"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 373,
+						"acc-id": 337326,
+						"wiw": "vlopatin",
+						"full-name": "Лопатин Валентин Михайлович"
+					}
+				}
+			}
+		},
+		{
+			"id": "17",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910006,
+				"name": "Controlling"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 319,
+						"acc-id": 334246,
+						"wiw": "ansemeny",
+						"full-name": "Семенюк Антон Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "18",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583232,
+				"name": "Tel-IT CSO TS2"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 94,
+						"acc-id": 226670,
+						"wiw": "adolmato",
+						"full-name": "Долматов Андрей Геннадьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "19",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910005,
+				"name": "Human Resources"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 17,
+						"acc-id": 98600,
+						"wiw": "itchoupa",
+						"full-name": "Чупалов Игорь Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "20",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583140,
+				"name": "Tel-IT TSO Test"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 705,
+						"acc-id": 458016,
+						"wiw": "alukashe",
+						"full-name": "Лукашев Александр Михайлович"
+					}
+				}
+			}
+		},
+		{
+			"id": "21",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583213,
+				"name": "Tel-IT CSO OP3"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 191,
+						"acc-id": 299008,
+						"wiw": "lelevin",
+						"full-name": "Левин Лев Валерьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "22",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583111,
+				"name": "Tel-IT TSO EW1"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 31,
+						"acc-id": 191797,
+						"wiw": "ismirnov",
+						"full-name": "Смирнов Илья Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "23",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583240,
+				"name": "Tel-IT COO"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 243,
+						"acc-id": 322566,
+						"wiw": "agarigin",
+						"full-name": "Гаригин Андрей Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "24",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583130,
+				"name": "Tel-IT TSO SAP"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1815,
+						"acc-id": 55500774,
+						"wiw": "ltormysh",
+						"full-name": "Тормышева Людмила Сергеевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "25",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583121,
+				"name": "Tel-IT TSO AS ARCH"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1041,
+						"acc-id": 511931,
+						"wiw": "pavsokol",
+						"full-name": "Соколов Павел Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "26",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583210,
+				"name": "Tel-IT CSO OP"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 191,
+						"acc-id": 299008,
+						"wiw": "lelevin",
+						"full-name": "Левин Лев Валерьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "27",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2984000,
+				"name": "BO Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 34,
+						"acc-id": 199982,
+						"wiw": "ekhohlov",
+						"full-name": "Милаева Елена Михайловна"
+					}
+				}
+			}
+		},
+		{
+			"id": "28",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1910007,
+				"name": "Legal Department"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 36,
+						"acc-id": 201821,
+						"wiw": "ipokrovs",
+						"full-name": "Покровский Иван Евгеньевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "29",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581090,
+				"name": "VS Public"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 520,
+						"acc-id": 421863,
+						"wiw": "aadelshi",
+						"full-name": "Адельшин Алексей Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "30",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581040,
+				"name": "AM sales"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2434,
+						"acc-id": 55501412,
+						"wiw": "ekrapivk",
+						"full-name": "Москвин Евгений Юрьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "31",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910025,
+				"name": "PQIT DS"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 196,
+						"acc-id": 301963,
+						"wiw": "yalyashe",
+						"full-name": "Аляшева Юлия Витальевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "32",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910010,
+				"name": "PQIT Management"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 196,
+						"acc-id": 301963,
+						"wiw": "yalyashe",
+						"full-name": "Аляшева Юлия Витальевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "33",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910003,
+				"name": "Administration"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1052,
+						"acc-id": 512755,
+						"wiw": "nkoleber",
+						"full-name": "Колебердина Наталия Николаевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "34",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581010,
+				"name": "AM Supply Chain Man"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 46,
+						"acc-id": 206839,
+						"wiw": "vfedotus",
+						"full-name": "Федотушкин Владимир Геннадьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "35",
+			"type": "costcenters",
+			"attributes": {
+				"number": 581270,
+				"name": "HS General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 18,
+						"acc-id": 142746,
+						"wiw": "etokarev",
+						"full-name": "Токарева Елена Сергеевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "36",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910043,
+				"name": "Adm Facility"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1052,
+						"acc-id": 512755,
+						"wiw": "nkoleber",
+						"full-name": "Колебердина Наталия Николаевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "37",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583233,
+				"name": "Tel-IT CSO TS3"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 94,
+						"acc-id": 226670,
+						"wiw": "adolmato",
+						"full-name": "Долматов Андрей Геннадьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "38",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581180,
+				"name": "DI Rail & Transport"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2013,
+						"acc-id": 55500979,
+						"wiw": "kvaniuko",
+						"full-name": "Ванюков Кирилл Анатольевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "39",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581020,
+				"name": "AM Product Lifecycle"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 114,
+						"acc-id": 233025,
+						"wiw": "dtrushni",
+						"full-name": "Трушников Денис Александрович"
+					}
+				}
+			}
+		},
+		{
+			"id": "40",
+			"type": "costcenters",
+			"attributes": {
+				"number": 581010,
+				"name": "AMI AM"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 46,
+						"acc-id": 206839,
+						"wiw": "vfedotus",
+						"full-name": "Федотушкин Владимир Геннадьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "41",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910007,
+				"name": "Legal Department"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 36,
+						"acc-id": 201821,
+						"wiw": "ipokrovs",
+						"full-name": "Покровский Иван Евгеньевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "42",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583123,
+				"name": "Tel-IT TSO OSS3"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 337,
+						"acc-id": 334995,
+						"wiw": "ashepele",
+						"full-name": "Шепелев Анатолий Георгиевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "43",
+			"type": "costcenters",
+			"attributes": {
+				"number": 982450,
+				"name": "SI Business Oper QM"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 34,
+						"acc-id": 199982,
+						"wiw": "ekhohlov",
+						"full-name": "Милаева Елена Михайловна"
+					}
+				}
+			}
+		},
+		{
+			"id": "44",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581140,
+				"name": "Telco TSO EW"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 11,
+						"acc-id": 56588,
+						"wiw": "myudints",
+						"full-name": "Юдинцев Михаил Сергеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "45",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581260,
+				"name": "SAP LP & CRM"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 114,
+						"acc-id": 233025,
+						"wiw": "dtrushni",
+						"full-name": "Трушников Денис Александрович"
+					}
+				}
+			}
+		},
+		{
+			"id": "46",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1140001,
+				"name": "NWS"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 155,
+						"acc-id": 287843,
+						"wiw": "atroshik",
+						"full-name": "Трошихина Анна Владимировна"
+					}
+				}
+			}
+		},
+		{
+			"id": "47",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583230,
+				"name": "Tel-IT CSO TS"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 94,
+						"acc-id": 226670,
+						"wiw": "adolmato",
+						"full-name": "Долматов Андрей Геннадьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "48",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581250,
+				"name": "SAP FM & HCM"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 114,
+						"acc-id": 233025,
+						"wiw": "dtrushni",
+						"full-name": "Трушников Денис Александрович"
+					}
+				}
+			}
+		},
+		{
+			"id": "49",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581240,
+				"name": "SAP Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 114,
+						"acc-id": 233025,
+						"wiw": "dtrushni",
+						"full-name": "Трушников Денис Александрович"
+					}
+				}
+			}
+		},
+		{
+			"id": "50",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581110,
+				"name": "TELCO General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 33,
+						"acc-id": 197905,
+						"wiw": "pstrokan",
+						"full-name": "Строкан Павел Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "51",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583212,
+				"name": "Tel-IT CSO OP2"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 191,
+						"acc-id": 299008,
+						"wiw": "lelevin",
+						"full-name": "Левин Лев Валерьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "52",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581000,
+				"name": "PoP Growth Portfolio"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 605,
+						"acc-id": 444433,
+						"wiw": "ishchipi",
+						"full-name": "Щипин Игорь Вячеславович"
+					}
+				}
+			}
+		},
+		{
+			"id": "53",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583221,
+				"name": "Tel-IT BSO MS"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 243,
+						"acc-id": 322566,
+						"wiw": "agarigin",
+						"full-name": "Гаригин Андрей Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "54",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581050,
+				"name": "Health Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "55",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1910001,
+				"name": "Management"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 17,
+						"acc-id": 98600,
+						"wiw": "itchoupa",
+						"full-name": "Чупалов Игорь Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "56",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1140003,
+				"name": "GU_Data_Platform_LBU"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 618,
+						"acc-id": 445817,
+						"wiw": "ekiryush",
+						"full-name": "Кирюшина Елена Ильинична"
+					}
+				}
+			}
+		},
+		{
+			"id": "57",
+			"type": "costcenters",
+			"attributes": {
+				"number": 581110,
+				"name": "TELCO General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 33,
+						"acc-id": 197905,
+						"wiw": "pstrokan",
+						"full-name": "Строкан Павел Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "58",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910015,
+				"name": "Recruitment and Payr"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 409,
+						"acc-id": 340280,
+						"wiw": "ngrische",
+						"full-name": "Грищенко Наталия Андреевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "59",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1910010,
+				"name": "PQIT Management"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 196,
+						"acc-id": 301963,
+						"wiw": "yalyashe",
+						"full-name": "Аляшева Юлия Витальевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "60",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581130,
+				"name": "TELCO TSO RMK"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 33,
+						"acc-id": 197905,
+						"wiw": "pstrokan",
+						"full-name": "Строкан Павел Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "61",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1910005,
+				"name": "Human Resources"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 17,
+						"acc-id": 98600,
+						"wiw": "itchoupa",
+						"full-name": "Чупалов Игорь Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "62",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583150,
+				"name": "Tel-IT Shared MCS"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 330,
+						"acc-id": 334986,
+						"wiw": "royarosl",
+						"full-name": "Ярославцев Роман Александрович"
+					}
+				}
+			}
+		},
+		{
+			"id": "63",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910016,
+				"name": "Recruiting"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 3191,
+						"acc-id": 55502168,
+						"wiw": "kicherni",
+						"full-name": "Чернин Кирилл Михайлович"
+					}
+				}
+			}
+		},
+		{
+			"id": "64",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581210,
+				"name": "TELCO CSO GW"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 33,
+						"acc-id": 197905,
+						"wiw": "pstrokan",
+						"full-name": "Строкан Павел Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "65",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583120,
+				"name": "Tel_IT TSO AS"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 507,
+						"acc-id": 420989,
+						"wiw": "avorobev",
+						"full-name": "Воробьев Антон Алексеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "66",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2580000,
+				"name": "POP MU TEL IT Gen"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 605,
+						"acc-id": 444433,
+						"wiw": "ishchipi",
+						"full-name": "Щипин Игорь Вячеславович"
+					}
+				}
+			}
+		},
+		{
+			"id": "67",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910026,
+				"name": "PQIT Hosting"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 196,
+						"acc-id": 301963,
+						"wiw": "yalyashe",
+						"full-name": "Аляшева Юлия Витальевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "69",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910033,
+				"name": "Adm Travel office"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1052,
+						"acc-id": 512755,
+						"wiw": "nkoleber",
+						"full-name": "Колебердина Наталия Николаевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "70",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1120015,
+				"name": "Sales FIPF"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 618,
+						"acc-id": 445817,
+						"wiw": "ekiryush",
+						"full-name": "Кирюшина Елена Ильинична"
+					}
+				}
+			}
+		},
+		{
+			"id": "71",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1140100,
+				"name": "SDM TC"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 618,
+						"acc-id": 445817,
+						"wiw": "ekiryush",
+						"full-name": "Кирюшина Елена Ильинична"
+					}
+				}
+			}
+		},
+		{
+			"id": "72",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1910003,
+				"name": "Administration"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1052,
+						"acc-id": 512755,
+						"wiw": "nkoleber",
+						"full-name": "Колебердина Наталия Николаевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "73",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581170,
+				"name": "FS Energy"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 737,
+						"acc-id": 465113,
+						"wiw": "izadvorn",
+						"full-name": "Задворнов Илья Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "74",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1120005,
+				"name": "Sales Telecomunicati"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 155,
+						"acc-id": 287843,
+						"wiw": "atroshik",
+						"full-name": "Трошихина Анна Владимировна"
+					}
+				}
+			}
+		},
+		{
+			"id": "75",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910002,
+				"name": "Procurement"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 244,
+						"acc-id": 322929,
+						"wiw": "rzaripov",
+						"full-name": "Зарипов Рустем Фаилевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "76",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910013,
+				"name": "Cross Function"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 244,
+						"acc-id": 322929,
+						"wiw": "rzaripov",
+						"full-name": "Зарипов Рустем Фаилевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "77",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581070,
+				"name": "VS General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 737,
+						"acc-id": 465113,
+						"wiw": "izadvorn",
+						"full-name": "Задворнов Илья Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "78",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581060,
+				"name": "PU Digital Solutions"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 751,
+						"acc-id": 468556,
+						"wiw": "enorden",
+						"full-name": "Норден Эдуард Николаевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "79",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1910002,
+				"name": "Procurement"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 598,
+						"acc-id": 442962,
+						"wiw": "mgoriuno",
+						"full-name": "Горюнов Максим Андреевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "80",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910001,
+				"name": "Management"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 17,
+						"acc-id": 98600,
+						"wiw": "itchoupa",
+						"full-name": "Чупалов Игорь Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "81",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583223,
+				"name": "Tel-IT BSO Team3"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 243,
+						"acc-id": 322566,
+						"wiw": "agarigin",
+						"full-name": "Гаригин Андрей Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "82",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583250,
+				"name": "Tel-IT CSO TD"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 66,
+						"acc-id": 214985,
+						"wiw": "ybeskuro",
+						"full-name": "Бескурова Юлия Юрьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "83",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583242,
+				"name": "Tel-IT COO TSI2"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 243,
+						"acc-id": 322566,
+						"wiw": "agarigin",
+						"full-name": "Гаригин Андрей Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "84",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583241,
+				"name": "Tel IT Digital TO 2"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 243,
+						"acc-id": 322566,
+						"wiw": "agarigin",
+						"full-name": "Гаригин Андрей Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "85",
+			"type": "costcenters",
+			"attributes": {
+				"number": 1140400,
+				"name": "FIPF"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 155,
+						"acc-id": 287843,
+						"wiw": "atroshik",
+						"full-name": "Трошихина Анна Владимировна"
+					}
+				}
+			}
+		},
+		{
+			"id": "86",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583160,
+				"name": "Tel-IT TSO R&D"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 507,
+						"acc-id": 420989,
+						"wiw": "avorobev",
+						"full-name": "Воробьев Антон Алексеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "87",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581270,
+				"name": "HS General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 737,
+						"acc-id": 465113,
+						"wiw": "izadvorn",
+						"full-name": "Задворнов Илья Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "88",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583400,
+				"name": "Tel-IT ACC General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 66,
+						"acc-id": 214985,
+						"wiw": "ybeskuro",
+						"full-name": "Бескурова Юлия Юрьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "89",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583420,
+				"name": "Tel-IT ACC Devops"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 66,
+						"acc-id": 214985,
+						"wiw": "ybeskuro",
+						"full-name": "Бескурова Юлия Юрьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "90",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583311,
+				"name": "Tel-IT TS Flexprod"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1412,
+						"acc-id": 55500363,
+						"wiw": "otykuchi",
+						"full-name": "Тыкучинская Ольга Ильинична"
+					}
+				}
+			}
+		},
+		{
+			"id": "91",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583313,
+				"name": "Tel-IT TS SMK"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 918,
+						"acc-id": 493352,
+						"wiw": "naftaeva",
+						"full-name": "Афтаева Наталья Евгеньевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "92",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583326,
+				"name": "Tel-IT TFI ASR"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 424,
+						"acc-id": 376531,
+						"wiw": "obugaeva",
+						"full-name": "Бугаева Ольга Геннадьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "93",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583312,
+				"name": "Tel-IT TS RMK/Seal"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 704,
+						"acc-id": 458015,
+						"wiw": "ashishlo",
+						"full-name": "Шишлов Александр Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "94",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583322,
+				"name": "Tel-IT TFI Portal"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1674,
+						"acc-id": 55500629,
+						"wiw": "dsidorin",
+						"full-name": "Сидорин Дмитрий Геннадьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "95",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583324,
+				"name": "Tel-IT TFI FF"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1317,
+						"acc-id": 55500271,
+						"wiw": "vlburkov",
+						"full-name": "Бурковский Владимир Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "96",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583323,
+				"name": "Tel-IT TFI OSR"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1317,
+						"acc-id": 55500271,
+						"wiw": "vlburkov",
+						"full-name": "Бурковский Владимир Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "97",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583320,
+				"name": "Tel-IT TFI General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 705,
+						"acc-id": 458016,
+						"wiw": "alukashe",
+						"full-name": "Лукашев Александр Михайлович"
+					}
+				}
+			}
+		},
+		{
+			"id": "98",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583327,
+				"name": "Tel-IT TFI Test"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1889,
+						"acc-id": 55500847,
+						"wiw": "alshusto",
+						"full-name": "Шустов Александр Дмитриевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "99",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583310,
+				"name": "Tel-IT TS General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1759,
+						"acc-id": 55500717,
+						"wiw": "imaksimo",
+						"full-name": "Максимов Илья Александрович"
+					}
+				}
+			}
+		},
+		{
+			"id": "100",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583321,
+				"name": "Tel-IT TFI GK"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1674,
+						"acc-id": 55500629,
+						"wiw": "dsidorin",
+						"full-name": "Сидорин Дмитрий Геннадьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "101",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583410,
+				"name": "Tel-IT ACC Test"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 66,
+						"acc-id": 214985,
+						"wiw": "ybeskuro",
+						"full-name": "Бескурова Юлия Юрьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "102",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583325,
+				"name": "Tel-IT TFI NT"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1317,
+						"acc-id": 55500271,
+						"wiw": "vlburkov",
+						"full-name": "Бурковский Владимир Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "103",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583300,
+				"name": "Tel-IT Test General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 90,
+						"acc-id": 224408,
+						"wiw": "usudutov",
+						"full-name": "Судутова Юлия Юрьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "104",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583214,
+				"name": "Tel-IT CSO OP4"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 191,
+						"acc-id": 299008,
+						"wiw": "lelevin",
+						"full-name": "Левин Лев Валерьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "105",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581430,
+				"name": "Cloud Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "106",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581450,
+				"name": "Telecom Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 208,
+						"acc-id": 304920,
+						"wiw": "tstorozh",
+						"full-name": "Стороженко Татьяна Леонидовна"
+					}
+				}
+			}
+		},
+		{
+			"id": "107",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581410,
+				"name": "DI Airport"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "108",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581440,
+				"name": "ECM Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 180,
+						"acc-id": 296302,
+						"wiw": "gkryukov",
+						"full-name": "Крюков Герман Борисович"
+					}
+				}
+			}
+		},
+		{
+			"id": "109",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581460,
+				"name": "gPMO"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 208,
+						"acc-id": 304920,
+						"wiw": "tstorozh",
+						"full-name": "Стороженко Татьяна Леонидовна"
+					}
+				}
+			}
+		},
+		{
+			"id": "110",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581420,
+				"name": "MMS Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2013,
+						"acc-id": 55500979,
+						"wiw": "kvaniuko",
+						"full-name": "Ванюков Кирилл Анатольевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "111",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581400,
+				"name": "PU SI Dedicated Solu"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 520,
+						"acc-id": 421863,
+						"wiw": "aadelshi",
+						"full-name": "Адельшин Алексей Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "112",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583330,
+				"name": "Tel-IT TNF General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2059,
+						"acc-id": 55501023,
+						"wiw": "ikashapo",
+						"full-name": "Болотнова Ирина Альфировна"
+					}
+				}
+			}
+		},
+		{
+			"id": "113",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2910030,
+				"name": "PQIT DS 2"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 196,
+						"acc-id": 301963,
+						"wiw": "yalyashe",
+						"full-name": "Аляшева Юлия Витальевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "114",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583500,
+				"name": "Tel-IT IT Services"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1937,
+						"acc-id": 55500895,
+						"wiw": "alemikha",
+						"full-name": "Михайлюков Александр Николаевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "116",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583171,
+				"name": "Tel-IT TSO T-M@GIC"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 704,
+						"acc-id": 458015,
+						"wiw": "ashishlo",
+						"full-name": "Шишлов Александр Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "117",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2585110,
+				"name": "Product Development"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 751,
+						"acc-id": 468556,
+						"wiw": "enorden",
+						"full-name": "Норден Эдуард Николаевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "118",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2585120,
+				"name": "Customer Solutions"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 751,
+						"acc-id": 468556,
+						"wiw": "enorden",
+						"full-name": "Норден Эдуард Николаевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "119",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583170,
+				"name": "Tel-IT TSO Giga Hub"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 337,
+						"acc-id": 334995,
+						"wiw": "ashepele",
+						"full-name": "Шепелев Анатолий Георгиевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "120",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581581,
+				"name": "AMM"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 87,
+						"acc-id": 223389,
+						"wiw": "sgrechan",
+						"full-name": "Гречаный Сергей Андреевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "121",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581571,
+				"name": "IT SM Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 87,
+						"acc-id": 223389,
+						"wiw": "sgrechan",
+						"full-name": "Гречаный Сергей Андреевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "122",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581610,
+				"name": "IoT Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 378,
+						"acc-id": 337876,
+						"wiw": "arusov",
+						"full-name": "Русов Александр Сергеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "123",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581551,
+				"name": "Test Management"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2013,
+						"acc-id": 55500979,
+						"wiw": "kvaniuko",
+						"full-name": "Ванюков Кирилл Анатольевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "124",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581620,
+				"name": "Telematics Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "125",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581561,
+				"name": "Blockchain Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 378,
+						"acc-id": 337876,
+						"wiw": "arusov",
+						"full-name": "Русов Александр Сергеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "126",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581640,
+				"name": "Connected Car Delive"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 378,
+						"acc-id": 337876,
+						"wiw": "arusov",
+						"full-name": "Русов Александр Сергеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "127",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581600,
+				"name": "PU IoT"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 378,
+						"acc-id": 337876,
+						"wiw": "arusov",
+						"full-name": "Русов Александр Сергеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "128",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2984100,
+				"name": "Quality"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 770,
+						"acc-id": 472733,
+						"wiw": "ababkin",
+						"full-name": "Бабкин Александр Валентинович"
+					}
+				}
+			}
+		},
+		{
+			"id": "129",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581510,
+				"name": "PU Cloud"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "130",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581591,
+				"name": "Deal Factory"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 605,
+						"acc-id": 444433,
+						"wiw": "ishchipi",
+						"full-name": "Щипин Игорь Вячеславович"
+					}
+				}
+			}
+		},
+		{
+			"id": "131",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581541,
+				"name": "Mobile Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2013,
+						"acc-id": 55500979,
+						"wiw": "kvaniuko",
+						"full-name": "Ванюков Кирилл Анатольевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "137",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583810,
+				"name": "TI Facilitator Gen"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 18,
+						"acc-id": 142746,
+						"wiw": "etokarev",
+						"full-name": "Токарева Елена Сергеевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "221",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583906,
+				"name": "Perfas"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 3090,
+						"acc-id": 55502085,
+						"wiw": "estrelni",
+						"full-name": "Стрельников Евгений Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "132",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581700,
+				"name": "Application Developm"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 605,
+						"acc-id": 444433,
+						"wiw": "ishchipi",
+						"full-name": "Щипин Игорь Вячеславович"
+					}
+				}
+			}
+		},
+		{
+			"id": "133",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581530,
+				"name": "PU SAP"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 520,
+						"acc-id": 421863,
+						"wiw": "aadelshi",
+						"full-name": "Адельшин Алексей Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "134",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583710,
+				"name": "Tel-IT IHUB"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2143,
+						"acc-id": 55501115,
+						"wiw": "srastatu",
+						"full-name": "Растатурин Станислав Евгеньевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "135",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583600,
+				"name": "Tel-IT GIGABIT"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 17,
+						"acc-id": 98600,
+						"wiw": "itchoupa",
+						"full-name": "Чупалов Игорь Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "220",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583907,
+				"name": "AutoBBE"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 507,
+						"acc-id": 420989,
+						"wiw": "avorobev",
+						"full-name": "Воробьев Антон Алексеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "136",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581650,
+				"name": "IT Service AD"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "138",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581660,
+				"name": "SBB Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 778,
+						"acc-id": 474388,
+						"wiw": "ibuzyuko",
+						"full-name": "Бузюкова Ирина Львовна"
+					}
+				}
+			}
+		},
+		{
+			"id": "139",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583176,
+				"name": "TI GB DH_OpDiNG"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 704,
+						"acc-id": 458015,
+						"wiw": "ashishlo",
+						"full-name": "Шишлов Александр Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "140",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583811,
+				"name": "TI Facilitator"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 18,
+						"acc-id": 142746,
+						"wiw": "etokarev",
+						"full-name": "Токарева Елена Сергеевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "141",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583172,
+				"name": "TI GB DH_TEST"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 337,
+						"acc-id": 334995,
+						"wiw": "ashepele",
+						"full-name": "Шепелев Анатолий Георгиевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "142",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583173,
+				"name": "TI GB DH_Architectur"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 337,
+						"acc-id": 334995,
+						"wiw": "ashepele",
+						"full-name": "Шепелев Анатолий Георгиевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "143",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583174,
+				"name": "TI GB DH_Facilitatio"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1380,
+						"acc-id": 55500333,
+						"wiw": "okoryako",
+						"full-name": "Коряковский Олег Александрович"
+					}
+				}
+			}
+		},
+		{
+			"id": "144",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583822,
+				"name": "TI PMO External"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1086,
+						"acc-id": 55500027,
+						"wiw": "vkiselev",
+						"full-name": "Киселева Виктория Михайловна"
+					}
+				}
+			}
+		},
+		{
+			"id": "145",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583821,
+				"name": "TI PMO Internal"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2010,
+						"acc-id": 55500975,
+						"wiw": "nstarovo",
+						"full-name": "Старовойтова Наталья Сергеевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "146",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581670,
+				"name": "Mobility & Toll Deli"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2013,
+						"acc-id": 55500979,
+						"wiw": "kvaniuko",
+						"full-name": "Ванюков Кирилл Анатольевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "147",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2581431,
+				"name": "OTC Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "148",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583901,
+				"name": "TI DT Technik"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 507,
+						"acc-id": 420989,
+						"wiw": "avorobev",
+						"full-name": "Воробьев Антон Алексеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "149",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583831,
+				"name": "Architecture & UX 02"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 177,
+						"acc-id": 295888,
+						"wiw": "digonkin",
+						"full-name": "Игонькин Дмитрий Александрович"
+					}
+				}
+			}
+		},
+		{
+			"id": "150",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583830,
+				"name": "Architecture & UX 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 199,
+						"acc-id": 302413,
+						"wiw": "isemerha",
+						"full-name": "Семерханов Илья Александрович"
+					}
+				}
+			}
+		},
+		{
+			"id": "151",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583832,
+				"name": "Architecture & UX 03"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 840,
+						"acc-id": 482289,
+						"wiw": "skopeyki",
+						"full-name": "Копейкин Сергей Геннадьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "152",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583812,
+				"name": "Facilitator South 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 74,
+						"acc-id": 217900,
+						"wiw": "dstrelts",
+						"full-name": "Стрельцов Дмитрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "153",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583904,
+				"name": "M2M"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 373,
+						"acc-id": 337326,
+						"wiw": "vlopatin",
+						"full-name": "Лопатин Валентин Михайлович"
+					}
+				}
+			}
+		},
+		{
+			"id": "154",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583903,
+				"name": "Internal AI/ML devel"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2143,
+						"acc-id": 55501115,
+						"wiw": "srastatu",
+						"full-name": "Растатурин Станислав Евгеньевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "155",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3910004,
+				"name": "Accounting"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 244,
+						"acc-id": 322929,
+						"wiw": "rzaripov",
+						"full-name": "Зарипов Рустем Фаилевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "156",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581670,
+				"name": "Mobility & Toll Deli"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2013,
+						"acc-id": 55500979,
+						"wiw": "kvaniuko",
+						"full-name": "Ванюков Кирилл Анатольевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "157",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581561,
+				"name": "T-Pool"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 272,
+						"acc-id": 328378,
+						"wiw": "psokolov",
+						"full-name": "Соколов Павел Витальевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "158",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581581,
+				"name": "AMM"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 87,
+						"acc-id": 223389,
+						"wiw": "sgrechan",
+						"full-name": "Гречаный Сергей Андреевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "159",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581010,
+				"name": "gASD"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 46,
+						"acc-id": 206839,
+						"wiw": "vfedotus",
+						"full-name": "Федотушкин Владимир Геннадьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "160",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581660,
+				"name": "SBB Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 778,
+						"acc-id": 474388,
+						"wiw": "ibuzyuko",
+						"full-name": "Бузюкова Ирина Львовна"
+					}
+				}
+			}
+		},
+		{
+			"id": "161",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581020,
+				"name": "Daimler Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 114,
+						"acc-id": 233025,
+						"wiw": "dtrushni",
+						"full-name": "Трушников Денис Александрович"
+					}
+				}
+			}
+		},
+		{
+			"id": "162",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581571,
+				"name": "IT SM Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 87,
+						"acc-id": 223389,
+						"wiw": "sgrechan",
+						"full-name": "Гречаный Сергей Андреевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "163",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581240,
+				"name": "SAP Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 272,
+						"acc-id": 328378,
+						"wiw": "psokolov",
+						"full-name": "Соколов Павел Витальевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "164",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581440,
+				"name": "ECM Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 180,
+						"acc-id": 296302,
+						"wiw": "gkryukov",
+						"full-name": "Крюков Герман Борисович"
+					}
+				}
+			}
+		},
+		{
+			"id": "165",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581430,
+				"name": "Cloud Product Delive"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "166",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581450,
+				"name": "Telecom Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 342,
+						"acc-id": 335246,
+						"wiw": "ogridnev",
+						"full-name": "Гриднева Ольга Сергеевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "167",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581640,
+				"name": "Connected Car Delive"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2013,
+						"acc-id": 55500979,
+						"wiw": "kvaniuko",
+						"full-name": "Ванюков Кирилл Анатольевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "168",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3984100,
+				"name": "Quality"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 220,
+						"acc-id": 316425,
+						"wiw": "nmatvien",
+						"full-name": "Матвиенко Наталия Игоревна"
+					}
+				}
+			}
+		},
+		{
+			"id": "169",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581600,
+				"name": "SSC AD 2 GEN"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 378,
+						"acc-id": 337876,
+						"wiw": "arusov",
+						"full-name": "Русов Александр Сергеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "170",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581040,
+				"name": "S&AS Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2434,
+						"acc-id": 55501412,
+						"wiw": "ekrapivk",
+						"full-name": "Москвин Евгений Юрьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "171",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581551,
+				"name": "Test Management"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 289,
+						"acc-id": 331973,
+						"wiw": "nnikulin",
+						"full-name": "Никулина Надежда Николаевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "172",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581180,
+				"name": "TTL Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 270,
+						"acc-id": 328376,
+						"wiw": "ysintyae",
+						"full-name": "Синтяев Юрий Николаевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "173",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581650,
+				"name": "IT Service AD"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "174",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581050,
+				"name": "Health Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 286,
+						"acc-id": 330878,
+						"wiw": "dkomarch",
+						"full-name": "Комарчук Денис Анатольевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "175",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581620,
+				"name": "Telematics Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "176",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581610,
+				"name": "IoT Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 358,
+						"acc-id": 336126,
+						"wiw": "gshiukas",
+						"full-name": "Шиукашвили Георгий Андрианович"
+					}
+				}
+			}
+		},
+		{
+			"id": "177",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581000,
+				"name": "PoP Growth Portfolio"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 605,
+						"acc-id": 444433,
+						"wiw": "ishchipi",
+						"full-name": "Щипин Игорь Вячеславович"
+					}
+				}
+			}
+		},
+		{
+			"id": "178",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581431,
+				"name": "OTC Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "179",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3910043,
+				"name": "Adm Facility"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1052,
+						"acc-id": 512755,
+						"wiw": "nkoleber",
+						"full-name": "Колебердина Наталия Николаевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "180",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581591,
+				"name": "Deal Factory"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 208,
+						"acc-id": 304920,
+						"wiw": "tstorozh",
+						"full-name": "Стороженко Татьяна Леонидовна"
+					}
+				}
+			}
+		},
+		{
+			"id": "181",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581460,
+				"name": "gPMO"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 208,
+						"acc-id": 304920,
+						"wiw": "tstorozh",
+						"full-name": "Стороженко Татьяна Леонидовна"
+					}
+				}
+			}
+		},
+		{
+			"id": "182",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3910015,
+				"name": "Recruitment and Payr"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 409,
+						"acc-id": 340280,
+						"wiw": "ngrische",
+						"full-name": "Грищенко Наталия Андреевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "183",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581541,
+				"name": "Mobile Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2013,
+						"acc-id": 55500979,
+						"wiw": "kvaniuko",
+						"full-name": "Ванюков Кирилл Анатольевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "184",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581420,
+				"name": "MMS Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2013,
+						"acc-id": 55500979,
+						"wiw": "kvaniuko",
+						"full-name": "Ванюков Кирилл Анатольевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "185",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3984000,
+				"name": "BO Delivery"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 34,
+						"acc-id": 199982,
+						"wiw": "ekhohlov",
+						"full-name": "Милаева Елена Михайловна"
+					}
+				}
+			}
+		},
+		{
+			"id": "186",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581510,
+				"name": "PU Cloud"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 474,
+						"acc-id": 381553,
+						"wiw": "ydmitrie",
+						"full-name": "Дмитриев Юрий Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "187",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581060,
+				"name": "SSC AD 1 GEN"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 751,
+						"acc-id": 468556,
+						"wiw": "enorden",
+						"full-name": "Норден Эдуард Николаевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "188",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3910013,
+				"name": "Cross Function"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 244,
+						"acc-id": 322929,
+						"wiw": "rzaripov",
+						"full-name": "Зарипов Рустем Фаилевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "189",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3910001,
+				"name": "Management"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 17,
+						"acc-id": 98600,
+						"wiw": "itchoupa",
+						"full-name": "Чупалов Игорь Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "190",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581690,
+				"name": "Data & Sovereign Clo"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 229,
+						"acc-id": 318245,
+						"wiw": "dshulgin",
+						"full-name": "Шульгин Даниил Сергеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "191",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583859,
+				"name": "System Test 09"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 90,
+						"acc-id": 224408,
+						"wiw": "usudutov",
+						"full-name": "Судутова Юлия Юрьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "192",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583854,
+				"name": "System Test 04"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 918,
+						"acc-id": 493352,
+						"wiw": "naftaeva",
+						"full-name": "Афтаева Наталья Евгеньевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "193",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583871,
+				"name": "SWE Data 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2143,
+						"acc-id": 55501115,
+						"wiw": "srastatu",
+						"full-name": "Растатурин Станислав Евгеньевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "194",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583845,
+				"name": "Integration Test 05"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1317,
+						"acc-id": 55500271,
+						"wiw": "vlburkov",
+						"full-name": "Бурковский Владимир Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "195",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583853,
+				"name": "System Test 03"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 122,
+						"acc-id": 239671,
+						"wiw": "mmatveev",
+						"full-name": "Матвеев Михаил Александрович"
+					}
+				}
+			}
+		},
+		{
+			"id": "196",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583851,
+				"name": "System Test 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 354,
+						"acc-id": 335940,
+						"wiw": "aevlampy",
+						"full-name": "Евлампьев Александр Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "197",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583856,
+				"name": "System Test 06"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1412,
+						"acc-id": 55500363,
+						"wiw": "otykuchi",
+						"full-name": "Тыкучинская Ольга Ильинична"
+					}
+				}
+			}
+		},
+		{
+			"id": "198",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583884,
+				"name": "SWE Backend 04"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 61,
+						"acc-id": 214033,
+						"wiw": "mnakhalo",
+						"full-name": "Нахалов Михаил Иванович"
+					}
+				}
+			}
+		},
+		{
+			"id": "199",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583855,
+				"name": "System Test 05"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 820,
+						"acc-id": 480351,
+						"wiw": "nsilaeva",
+						"full-name": "Силаева Наталья Викторовна"
+					}
+				}
+			}
+		},
+		{
+			"id": "200",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583857,
+				"name": "System Test 07"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 169,
+						"acc-id": 292664,
+						"wiw": "sisakova",
+						"full-name": "Горчакова Светлана Николаевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "201",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583842,
+				"name": "Integration Test 02"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1614,
+						"acc-id": 55500571,
+						"wiw": "irsilkin",
+						"full-name": "Силкина Ирина Павловна"
+					}
+				}
+			}
+		},
+		{
+			"id": "202",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583886,
+				"name": "SWE Backend 06"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 803,
+						"acc-id": 477947,
+						"wiw": "iilin",
+						"full-name": "Ильин Юрий Юрьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "203",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583887,
+				"name": "SWE Backend 07"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1769,
+						"acc-id": 55500730,
+						"wiw": "dzharkov",
+						"full-name": "Жарков Дмитрий Юрьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "204",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583860,
+				"name": "System Test 10"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 839,
+						"acc-id": 481915,
+						"wiw": "erymar",
+						"full-name": "Рымар Елена Леонидовна"
+					}
+				}
+			}
+		},
+		{
+			"id": "205",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583844,
+				"name": "Integration Test 04"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 424,
+						"acc-id": 376531,
+						"wiw": "obugaeva",
+						"full-name": "Бугаева Ольга Геннадьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "206",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583883,
+				"name": "SWE Backend 03"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 624,
+						"acc-id": 447223,
+						"wiw": "trybakov",
+						"full-name": "Рыбакова Татьяна Юрьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "207",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583882,
+				"name": "SWE Backend 02"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 661,
+						"acc-id": 452584,
+						"wiw": "aakatkin",
+						"full-name": "Акаткин Алексей Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "208",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583861,
+				"name": "System Test 11"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1258,
+						"acc-id": 55500212,
+						"wiw": "evoronin",
+						"full-name": "Ковынченкова Елена Михайловна"
+					}
+				}
+			}
+		},
+		{
+			"id": "209",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583846,
+				"name": "Integration Test 06"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1889,
+						"acc-id": 55500847,
+						"wiw": "alshusto",
+						"full-name": "Шустов Александр Дмитриевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "210",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583858,
+				"name": "System Test 08"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 105,
+						"acc-id": 231044,
+						"wiw": "spudova",
+						"full-name": "Громова Светлана Алексеевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "211",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583881,
+				"name": "SWE Backend 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 556,
+						"acc-id": 429919,
+						"wiw": "atabarch",
+						"full-name": "Табарча Александр Иванович"
+					}
+				}
+			}
+		},
+		{
+			"id": "212",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583841,
+				"name": "Integration Test 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 402,
+						"acc-id": 340102,
+						"wiw": "gvargin",
+						"full-name": "Варгин Герман Валерьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "213",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583885,
+				"name": "SWE Backend 05"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 556,
+						"acc-id": 429919,
+						"wiw": "atabarch",
+						"full-name": "Табарча Александр Иванович"
+					}
+				}
+			}
+		},
+		{
+			"id": "214",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583847,
+				"name": "Integration Test 07"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 741,
+						"acc-id": 465792,
+						"wiw": "egavshin",
+						"full-name": "Гавшин Евгений Сергеевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "215",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583888,
+				"name": "SWE Backend 08"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 704,
+						"acc-id": 458015,
+						"wiw": "ashishlo",
+						"full-name": "Шишлов Александр Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "216",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583852,
+				"name": "System Test 02"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 918,
+						"acc-id": 493352,
+						"wiw": "naftaeva",
+						"full-name": "Афтаева Наталья Евгеньевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "217",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583843,
+				"name": "Integration Test 03"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1435,
+						"acc-id": 55500369,
+						"wiw": "vzakovry",
+						"full-name": "Заковряжина Валентина Юрьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "218",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583905,
+				"name": "NT Common Testing"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1317,
+						"acc-id": 55500271,
+						"wiw": "vlburkov",
+						"full-name": "Бурковский Владимир Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "219",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583175,
+				"name": "TI GB DH_SC"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 337,
+						"acc-id": 334995,
+						"wiw": "ashepele",
+						"full-name": "Шепелев Анатолий Георгиевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "222",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581530,
+				"name": "PU SAP"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 520,
+						"acc-id": 421863,
+						"wiw": "aadelshi",
+						"full-name": "Адельшин Алексей Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "223",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583908,
+				"name": "CICD"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 3090,
+						"acc-id": 55502085,
+						"wiw": "estrelni",
+						"full-name": "Стрельников Евгений Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "224",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583520,
+				"name": "Tel-IT ITS Automatio"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1937,
+						"acc-id": 55500895,
+						"wiw": "alemikha",
+						"full-name": "Михайлюков Александр Николаевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "225",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583840,
+				"name": "Integration test Gen"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 243,
+						"acc-id": 322566,
+						"wiw": "agarigin",
+						"full-name": "Гаригин Андрей Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "226",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583731,
+				"name": "Business Analyst 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1777,
+						"acc-id": 55500736,
+						"wiw": "pantokhi",
+						"full-name": "Чигинева Полина Максимовна"
+					}
+				}
+			}
+		},
+		{
+			"id": "227",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583792,
+				"name": "DevSecOps Eng 02"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 753,
+						"acc-id": 469258,
+						"wiw": "eilin",
+						"full-name": "Ильин Евгений Михайлович"
+					}
+				}
+			}
+		},
+		{
+			"id": "228",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583761,
+				"name": "Facilitator Mid 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 16,
+						"acc-id": 98598,
+						"wiw": "ekalabin",
+						"full-name": "Калабин Евгений Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "229",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583891,
+				"name": "SWE Full Stack 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 757,
+						"acc-id": 470507,
+						"wiw": "alkovale",
+						"full-name": "Коваленко Александр Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "230",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583742,
+				"name": "CON FIN&SCM 02"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 214,
+						"acc-id": 309843,
+						"wiw": "evalkova",
+						"full-name": "Валькова Елена Анатольевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "231",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583741,
+				"name": "CON FIN&SCM 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 818,
+						"acc-id": 480344,
+						"wiw": "mkhorokh",
+						"full-name": "Хорохордина Марина Владимировна"
+					}
+				}
+			}
+		},
+		{
+			"id": "232",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583893,
+				"name": "SWE Full Stack 03"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 31,
+						"acc-id": 191797,
+						"wiw": "ismirnov",
+						"full-name": "Смирнов Илья Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "233",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583793,
+				"name": "DevSecOps Eng 03"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1896,
+						"acc-id": 55500858,
+						"wiw": "elsokolo",
+						"full-name": "Соколова Елизавета Витальевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "234",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583781,
+				"name": "Portfolio & Steering"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 18,
+						"acc-id": 142746,
+						"wiw": "etokarev",
+						"full-name": "Токарева Елена Сергеевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "235",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583894,
+				"name": "SWE Full Stack 04"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 333,
+						"acc-id": 334990,
+						"wiw": "mabelova",
+						"full-name": "Белова Мария Владимировна"
+					}
+				}
+			}
+		},
+		{
+			"id": "236",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583850,
+				"name": "System Test General"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 90,
+						"acc-id": 224408,
+						"wiw": "usudutov",
+						"full-name": "Судутова Юлия Юрьевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "237",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583895,
+				"name": "SWE Full Stack 05"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 333,
+						"acc-id": 334990,
+						"wiw": "mabelova",
+						"full-name": "Белова Мария Владимировна"
+					}
+				}
+			}
+		},
+		{
+			"id": "238",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583791,
+				"name": "DevSecOps Eng 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 601,
+						"acc-id": 443957,
+						"wiw": "mwladimi",
+						"full-name": "Владимирский Марк Денисович"
+					}
+				}
+			}
+		},
+		{
+			"id": "239",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583772,
+				"name": "Facilitator South 02"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 145,
+						"acc-id": 279830,
+						"wiw": "emuras",
+						"full-name": "Мурас Евгений Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "240",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583743,
+				"name": "CON FIN&SCM 03"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1815,
+						"acc-id": 55500774,
+						"wiw": "ltormysh",
+						"full-name": "Тормышева Людмила Сергеевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "241",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583889,
+				"name": "SWE Backend 09"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 191,
+						"acc-id": 299008,
+						"wiw": "lelevin",
+						"full-name": "Левин Лев Валерьевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "242",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583892,
+				"name": "SWE Full Stack 02"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 265,
+						"acc-id": 327211,
+						"wiw": "advinyan",
+						"full-name": "Двинянин Андрей Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "243",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583896,
+				"name": "SWE Full Stack 06"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 31,
+						"acc-id": 191797,
+						"wiw": "ismirnov",
+						"full-name": "Смирнов Илья Владимирович"
+					}
+				}
+			}
+		},
+		{
+			"id": "244",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583751,
+				"name": "OPS Infrastructure N"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1655,
+						"acc-id": 55500611,
+						"wiw": "alnoviko",
+						"full-name": "Новикова Александра Максимовна"
+					}
+				}
+			}
+		},
+		{
+			"id": "245",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583897,
+				"name": "SWE Full Stack 07"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2887,
+						"acc-id": 55501870,
+						"wiw": "kivaniut",
+						"full-name": "Иванюта Ксения Константиновна"
+					}
+				}
+			}
+		},
+		{
+			"id": "246",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583722,
+				"name": "SWE Front End 02"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1126,
+						"acc-id": 55500070,
+						"wiw": "agulevat",
+						"full-name": "Гулеватый Александр"
+					}
+				}
+			}
+		},
+		{
+			"id": "247",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583721,
+				"name": "SWE Front End 01"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1126,
+						"acc-id": 55500070,
+						"wiw": "agulevat",
+						"full-name": "Гулеватый Александр"
+					}
+				}
+			}
+		},
+		{
+			"id": "248",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583720,
+				"name": "SWE Front End Genera"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1937,
+						"acc-id": 55500895,
+						"wiw": "alemikha",
+						"full-name": "Михайлюков Александр Николаевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "249",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583910,
+				"name": "Other non DTIT Gen"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 2059,
+						"acc-id": 55501023,
+						"wiw": "ikashapo",
+						"full-name": "Болотнова Ирина Альфировна"
+					}
+				}
+			}
+		},
+		{
+			"id": "250",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583744,
+				"name": "CON FIN&SCM 04"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 342,
+						"acc-id": 335246,
+						"wiw": "ogridnev",
+						"full-name": "Гриднева Ольга Сергеевна"
+					}
+				}
+			}
+		},
+		{
+			"id": "251",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583912,
+				"name": "Network Automation E"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 3090,
+						"acc-id": 55502085,
+						"wiw": "estrelni",
+						"full-name": "Стрельников Евгений Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "252",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583911,
+				"name": "RAN Disaggregation"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 3090,
+						"acc-id": 55502085,
+						"wiw": "estrelni",
+						"full-name": "Стрельников Евгений Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "253",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583723,
+				"name": "SWE Front End 03"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1937,
+						"acc-id": 55500895,
+						"wiw": "alemikha",
+						"full-name": "Михайлюков Александр Николаевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "254",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583913,
+				"name": "IP Core & Transport"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 3090,
+						"acc-id": 55502085,
+						"wiw": "estrelni",
+						"full-name": "Стрельников Евгений Викторович"
+					}
+				}
+			}
+		},
+		{
+			"id": "255",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583914,
+				"name": "Integration & Valida"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 1317,
+						"acc-id": 55500271,
+						"wiw": "vlburkov",
+						"full-name": "Бурковский Владимир Игоревич"
+					}
+				}
+			}
+		},
+		{
+			"id": "256",
+			"type": "costcenters",
+			"attributes": {
+				"number": 3581001,
+				"name": "Resource forum"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 272,
+						"acc-id": 328378,
+						"wiw": "psokolov",
+						"full-name": "Соколов Павел Витальевич"
+					}
+				}
+			}
+		},
+		{
+			"id": "257",
+			"type": "costcenters",
+			"attributes": {
+				"number": 2583900,
+				"name": "TI DT Technik Gen"
+			},
+			"relationships": {
+				"owner": {
+					"data": {
+						"id": 507,
+						"acc-id": 420989,
+						"wiw": "avorobev",
+						"full-name": "Воробьев Антон Алексеевич"
+					}
+				}
+			}
+		}
+	]
+}

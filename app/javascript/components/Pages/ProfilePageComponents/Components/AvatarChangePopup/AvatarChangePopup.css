@@ -1,0 +1,190 @@
+.avatar-change-popup-header-container {
+    padding-bottom: 15px;
+    font-weight: 600;
+}
+
+.avatar-change-popup-modal-container {
+    background-color: white !important;
+    padding: 10px 20px;
+    min-width: 10%;
+    min-height: 270px;
+    border: none !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+}
+
+.avatar-change-popup-close-link {
+    cursor: pointer;
+    position: absolute;
+    right: 44px;
+    top: 40px;
+}
+
+.avatar-change-popup-close-link:hover {
+    transform: scale(0.9);
+}
+
+.avatar-change-popup-modal-content-container {
+    background-color: white;
+
+}
+
+.avatar-change-popup-modal-content-description {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.avatar-change-popup-modal-content-description-file-format {
+    margin-left: 30px;
+}
+
+.avatar-change-popup-modal-content-upload-button {
+    padding-bottom: 10px;
+}
+
+.avatar-change-popup-modal-content-filename-label {
+    margin: 0 auto;
+    width: 250px;
+}
+
+.avatar-change-popup-modal-content-upload-button .btn-secondary {
+    color: #fff !important
+}
+
+.avatar-change-popup-modal-content-edit {
+    margin-left: 190px;
+}
+
+.avatar-change-popup-modal-content-edit input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+   border: none;
+   height: 16px;
+   width: 16px;
+   border-radius: 50%;
+   background: #5aa0a0;
+   margin-top: -6px;
+}
+
+.avatar-change-popup-modal-content-edit input[type="range"] {
+    -webkit-appearance: none;
+    background: transparent;
+    width: 205px;
+}
+
+.avatar-change-popup-modal-content-edit input[type="range"]:focus {
+    outline: none;
+}
+
+.avatar-change-popup-modal-content-edit input[type="range"]:focus::-webkit-slider-runnable-track {
+    background: #ddd;
+}
+
+.avatar-change-popup-modal-content-edit input[type="range"]::-webkit-slider-runnable-track {
+    width: 300px;
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+} 
+
+.avatar-change-popup-modal-button-footer {
+    padding-bottom: 43px;
+}
+
+.avatar-change-popup-modal-button-footer-cancel {
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+.avatar-change-popup-modal-range-input[type=range]::-webkit-slider-thumb {
+    background: #5aa0a0;
+}
+
+.avatar-change-popup-modal-range-input[type=range].range-input {
+    height: 20px;
+    margin-top: -15px;
+}
+
+.avatar-change-popup-modal-close-help-modal {
+    position: absolute;
+    right: 48px;
+    top: 35px;
+    width: 12px;
+    height: 12px;
+    opacity: 0.3;
+}
+  
+.avatar-change-popup-modal-close-help-modal:hover {
+    opacity: 1;
+}
+  
+.avatar-change-popup-modal-close-help-modal:before,
+.avatar-change-popup-modal-close-help-modal:after {
+    position: absolute;
+    left: 5px;
+    content: ' ';
+    height: 15px;
+    width: 1px;
+    background-color: #212529;
+}
+  
+.avatar-change-popup-modal-close-help-modal:before {
+    transform: rotate(45deg);
+}
+  
+.avatar-change-popup-modal-close-help-modal:after {
+    transform: rotate(-45deg);
+}
+
+.avatar-change-popup-modal-choose-file-button {
+    height: 40px;
+    width: 250px;
+    padding: 0px !important;
+    background-color: #5aa0a0;
+    color: white !important;
+    font-size: 12pt !important;
+    border: none;
+    outline: 0px !important;
+    border-radius: 3px;
+    margin-left: 30px;
+}
+
+.avatar-change-popup-modal-choose-file-button:hover {
+    border: none;
+    outline: none !important;
+    background-color: #64b4b4;
+}
+
+.avatar-change-popup-modal-choose-file-button:focus {
+    background-color: #64b4b4 !important;
+    outline: none !important;
+    border: none !important;
+  }
+
+.avatar-change-popup-modal-save-button {
+    height: 40px;
+    width: 250px;
+    margin-top: 25px;
+    padding: 0px !important;
+    background-color: #5aa0a0;
+    color: white !important;
+    font-size: 12pt !important;
+    border: none;
+    outline: 0px !important;
+    border-radius: 3px;
+}
+
+.avatar-change-popup-modal-cancel-button {
+    height: 40px;
+    width: 250px;
+    margin-top: 25px;
+    padding: 0px !important;
+    background-color: #B2B2B2;
+    color: white !important;
+    font-size: 12pt !important;
+    border: none;
+    outline: 0px !important;
+    border-radius: 3px;
+}

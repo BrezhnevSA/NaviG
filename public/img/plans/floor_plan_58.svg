@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4000" height="4000" version="1.1">
+                
+                <polyline
+                    subtype='1'
+                    entity-name=''
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 40, 40 300, 40 300, 300 40, 300 40, 40'
+                />
+                
+                <polyline
+                    subtype='2'
+                    entity-name='n'
+                    stroke='#665'
+                    stroke-width='5px'
+                    fill='#ccc'
+                    points=' 40, 40 300, 40 300, 300 40, 300 40, 40'
+                />
+                    <defs xmlns='http://www.w3.org/2000/svg'>
+                        <pattern id='objectpattern1' patternUnits='objectBoundingBox' width='50' height='50'>
+                            <image xlink:href='/img/editor-icons/objects/object_type_1.png' width='50' height='50' />
+                        </pattern>
+                    </defs>
+                    <rect transform='rotate(0 175 175)'
+                        width='50' height='50' x='150' y='150'
+                        fill='url(#objectpattern1)' /></svg>

@@ -1,0 +1,25 @@
+.contracts-add-new-contract-button {
+    position: fixed;
+    margin-top: 28px;
+    height: 40px;
+    width: 40px;
+    background-color: #5aa0a0;
+    color: white !important;
+    font-size: 24pt !important;
+    border: none;
+    outline: 0px !important;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.contracts-add-new-contract-button:hover {
+    background-color: #64b4b4 !important;
+    outline: none !important;
+    border: none !important;
+}
+
+.contracts-page-title-container {
+    display: inline-block;
+    padding-right: 50px;
+}
+

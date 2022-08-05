@@ -1,0 +1,11 @@
+.no_bg_text {
+    background-color: rgba(220,53,69,.8);
+    color: #fff;
+    border-radius: .2rem;
+    max-width: 120px;
+    padding: .5rem;
+    margin-top: .1rem;
+    font-size: .875rem;
+    line-height: 1;
+    text-align: center;
+}

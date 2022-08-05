@@ -1,0 +1,95 @@
+.contracts-form-input {
+    width: 220px !important;
+    height: 30px !important;
+    margin-left: 8px !important;
+  }
+
+.contracts-col-input {
+    width: 220px !important;
+    height: 30px !important;
+}
+
+.contracts-form-group-container {
+      margin-bottom: 40px !important;
+}
+
+.contracts-city-label {
+    margin-right: 20px;
+}
+
+.contracts-bc-city-label {
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+.contracts-form-container {
+    margin-left: 15px !important;
+}
+
+#office_id.empty,
+#company_name.empty,
+#city_id.empty {
+    color: #999999
+}
+
+#office_id.not_empty,
+#company_name.not_empty,
+#city_id.not_empty {
+    color: #4b4b4b;
+}
+
+.location-chip {
+    margin-left: 20px;
+    display: inline-block;
+    background-color: #ededed;
+    padding-right: 5px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 1px solid #b2b2b2;
+}
+
+#src_locations > :nth-child(2) > div > div > :nth-child(1) > input {
+    margin-bottom: -5px !important;
+} 
+
+#src_locations > :nth-child(2) {
+    height: 30px !important;
+}
+
+.label-not-in-contract-locations {
+    margin-left: -16px;
+}
+
+.fr-not-in-contract-locations {
+    width: 1300px;
+    margin-left: -35px !important;
+}
+
+.button-save-contract {
+    margin-left: 50px;
+}
+
+.contracts-buttons-container {
+    margin-top: 50px;
+}
+
+.plus45 {
+    margin-left: 10px;
+}
+
+.plus-pink {
+    margin-left: 11px;
+}
+
+.plus45:hover,
+.plus-pink:hover {
+    transform: scale(1.2);
+}
+
+.label-suggeted-locations {
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 700;
+    width: 1300px;
+    min-width: 1300px;
+}

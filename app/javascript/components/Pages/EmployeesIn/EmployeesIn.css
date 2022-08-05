@@ -1,0 +1,27 @@
+.employees-in-container-fluid {
+    overflow-x: hidden;
+    min-height: 100%;
+    margin-left: 10px;
+    padding-top: 40px;
+}
+
+.employees-in-page-title {
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+
+.employees-in-office-name {
+    font-size: 25px;
+    font-weight: 500;
+    color: #4B4B4B;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+.employees-in-header-list {
+    font-size: 40px;
+    font-weight: 300;
+    color: #4b4b4b;
+    display: block;
+    margin-left: -15px;
+}

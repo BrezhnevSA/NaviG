@@ -1,0 +1,40 @@
+.button-edit-booking {
+    margin-bottom: 5px !important;
+}
+
+.place_link {
+    color: #4B4B4B;
+    text-decoration: underline;
+}
+
+.place_link:hover {
+    color: #777777;
+    text-decoration: none;
+}
+
+.buttons_m {
+    margin: 1px;    
+}
+
+.buttons_m:hover {
+    margin: 1px;
+    transform: scale(1.1)
+}
+
+.filter_button {
+    float: right;
+    color: #4B4B4B;
+    font-size: 16px;
+}
+
+.filter_button:hover {
+    color: #777777;
+}
+
+.open_filter_sidebar_button {
+    position: absolute;
+    right: -118px;
+    top: 17%;
+    z-index: 20;
+    transform: rotate(-90deg);
+  }

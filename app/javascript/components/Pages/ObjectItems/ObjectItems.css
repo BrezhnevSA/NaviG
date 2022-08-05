@@ -1,0 +1,39 @@
+.tab-content {
+    width: 100% !important
+}
+
+.fl-lb {
+    margin-left: 5px;
+}
+
+.delete_object_item_btn {
+    display: inline-block !important;
+    margin-top: -18px;
+    margin-left: 5px;
+}
+
+.edit_object_item_btn {
+    display: inline-block !important;
+}
+
+.page-key {
+    display: inline-block;
+    font-size: 40px !important;
+}
+
+.techinque-key {
+    margin-left: 50px;
+    margin-right: 25px;
+}
+
+.techinque-key,
+.service-key {
+    display: inline-block;
+    font-size: 22px !important;
+}
+
+.techinque-key.selected,
+.service-key.selected {
+    color: #5aa0a0;
+    text-decoration: underline;
+}

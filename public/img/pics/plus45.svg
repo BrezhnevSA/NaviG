@@ -1,0 +1,9 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 9" width="8" height="9">
+	<title>Rectangle 1140-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #383838 } 
+	</style>
+	<path id="Layer" class="shp0" d="M0 7.83L7.62 0.21L8 0.59L0.38 8.21L0 7.83Z" />
+	<path id="Layer copy" class="shp0" d="M8 7.83L0.38 0.21L0 0.59L7.62 8.21L8 7.83Z" />
+</svg>
